@@ -169,4 +169,15 @@ aside i:hover {
     }
 }
 
+@media (max-width: 480px) { 
+    header {
+        width: 95%; 
+        padding: 10px; 
+    }
+
+    h1 {
+        font-size: 18px; 
+    }
+}
+
 
