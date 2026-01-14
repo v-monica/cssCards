@@ -155,3 +155,18 @@ aside i:hover {
 }
 
 
+@media (max-width: 480px) { 
+    .card {
+        width: 95%;
+    }
+
+    h3 {
+        font-size: 16px; 
+    }
+
+    p {
+        font-size: 13px;
+    }
+}
+
+
